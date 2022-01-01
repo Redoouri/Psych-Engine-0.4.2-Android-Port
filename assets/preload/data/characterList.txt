@@ -20,4 +20,5 @@ spirit
 bf-pixel-opponent
 pico-player
 spookyd2
+spookyd2.5
 spookyd3
