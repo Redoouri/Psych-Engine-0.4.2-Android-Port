@@ -88,12 +88,12 @@
     }
   ],
   "no_antialiasing": false,
-  "image": "characters/spooky_kids_assetsd3",
+  "image": "characters/spooky_kids_assetsd3-player",
   "position": [
     0,
     200
   ],
-  "healthicon": "spooky",
+  "healthicon": "spookyd3",
   "flip_x": false,
   "healthbar_colors": [
     213,
