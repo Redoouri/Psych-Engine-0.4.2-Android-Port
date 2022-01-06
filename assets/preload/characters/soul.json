@@ -9,7 +9,7 @@
 			"fps": 24,
 			"anim": "idle",
 			"indices": [],
-			"name": "Mom Idle"
+			"name": "Soul Idle"
 		},
 		{
 			"offsets": [
@@ -20,7 +20,7 @@
 			"fps": 24,
 			"anim": "singLEFT",
 			"indices": [],
-			"name": "Mom Left Pose"
+			"name": "Soul Left Pose"
 		},
 		{
 			"offsets": [
@@ -31,7 +31,7 @@
 			"fps": 24,
 			"anim": "singRIGHT",
 			"indices": [],
-			"name": "Mom Pose Left"
+			"name": "Soul Pose Left"
 		},
 		{
 			"offsets": [
@@ -42,7 +42,7 @@
 			"fps": 24,
 			"anim": "singDOWN",
 			"indices": [],
-			"name": "MOM DOWN POSE"
+			"name": "SOUL DOWN POSE"
 		},
 		{
 			"offsets": [
@@ -53,7 +53,7 @@
 			"fps": 24,
 			"anim": "singUP",
 			"indices": [],
-			"name": "Mom Up Pose"
+			"name": "Soul Up Pose"
 		}
 	],
 	"no_antialiasing": false,
