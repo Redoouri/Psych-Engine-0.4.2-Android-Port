@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="soul.png">
+<SubTexture name="Mom Idle0000" x="1165" y="5" width="385" height="481" frameX="-75" frameY="250" frameWidth="600" frameHeight="200"/>
+<SubTexture name="Mom Idle0001" x="5" y="496" width="398" height="482" frameX="-75" frameY="250" frameWidth="600" frameHeight="200"/>
+<SubTexture name="Mom Idle0002" x="413" y="496" width="400" height="479" frameX="-75" frameY="250" frameWidth="600" frameHeight="200"/>
+<SubTexture name="Mom Idle0003" x="823" y="496" width="401" height="483" frameX="-75" frameY="250" frameWidth="600" frameHeight="200"/>
+<SubTexture name="Mom Idle0004" x="1234" y="496" width="395" height="476" frameX="-75" frameY="250" frameWidth="600" frameHeight="200"/>
+<SubTexture name="Mom Idle0005" x="1234" y="982" width="378" height="476" frameX="-75" frameY="250" frameWidth="600" frameHeight="200"/>
+<SubTexture name="MOM DOWN POSE0000" x="5" y="5" width="573" height="470" frameX="75" frameY="250" frameWidth="600" frameHeight="200"/>
+<SubTexture name="MOM DOWN POSE0001" x="588" y="5" width="567" height="476" frameX="75" frameY="250" frameWidth="600" frameHeight="200"/>
+<SubTexture name="Mom Left Pose0000" x="1639" y="5" width="489" height="513" frameX="0" frameY="250" frameWidth="600" frameHeight="200"/>
+<SubTexture name="Mom Left Pose0001" x="1639" y="528" width="498" height="512" frameX="0" frameY="250" frameWidth="600" frameHeight="200"/>
+<SubTexture name="Mom Pose Left0000" x="5" y="1050" width="546" height="491" frameX="50" frameY="250" frameWidth="600" frameHeight="200"/>
+<SubTexture name="Mom Pose Left0001" x="561" y="1050" width="544" height="493" frameX="50" frameY="250" frameWidth="600" frameHeight="200"/>
+<SubTexture name="Mom Up Pose0000" x="1622" y="1050" width="444" height="551" frameX="-75" frameY="250" frameWidth="600" frameHeight="200"/>
+<SubTexture name="Mom Up Pose0001" x="5" y="1611" width="450" height="546" frameX="-75" frameY="250" frameWidth="600" frameHeight="200"/>
+<SubTexture name="Mom Up Pose0002" x="465" y="1611" width="450" height="546" frameX="-75" frameY="250" frameWidth="600" frameHeight="200"/>
+</TextureAtlas>
