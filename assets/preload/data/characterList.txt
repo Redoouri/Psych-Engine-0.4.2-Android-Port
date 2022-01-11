@@ -24,3 +24,4 @@ spookyd2.5
 spookyd3
 spookyd3-player
 soul
+picod1
