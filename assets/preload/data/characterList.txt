@@ -25,3 +25,4 @@ spookyd3
 spookyd3-player
 soul
 picod1
+bf-phylli
