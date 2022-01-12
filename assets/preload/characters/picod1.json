@@ -3,100 +3,100 @@
     {
       "offsets": [
         0,
-        0
+        3
       ],
       "loop": false,
       "anim": "idle",
       "fps": 24,
-      "name": "Picod1 Idle Dance",
+      "name": "Pico Idle Dance",
       "indices": []
     },
     {
       "offsets": [
         65,
-        9
+        11
       ],
       "loop": false,
       "anim": "singLEFT",
       "fps": 24,
-      "name": "Picod1 Note Right0",
+      "name": "Pico Note Right0",
       "indices": []
     },
     {
       "offsets": [
         -68,
-        -7
+        -4
       ],
       "loop": false,
       "anim": "singRIGHT",
       "fps": 24,
-      "name": "Picod1 NOTE LEFT0",
+      "name": "Pico NOTE LEFT0",
       "indices": []
     },
     {
       "offsets": [
         -60,
-        41
+        42
       ],
       "loop": false,
       "anim": "singRIGHTmiss",
       "fps": 24,
-      "name": "Picod1 NOTE LEFT miss",
+      "name": "Pico NOTE LEFT miss",
       "indices": []
     },
     {
       "offsets": [
         62,
-        64
+        65
       ],
       "loop": false,
       "anim": "singLEFTmiss",
       "fps": 24,
-      "name": "Picod1 Note Right Miss",
+      "name": "Pico Note Right Miss",
       "indices": []
     },
     {
       "offsets": [
         -29,
-        27
+        29
       ],
       "loop": false,
       "anim": "singUP",
       "fps": 24,
-      "name": "picod1 Up note0",
+      "name": "pico Up note0",
       "indices": []
     },
     {
       "offsets": [
         200,
-        -70
+        -69
       ],
       "loop": false,
       "anim": "singDOWN",
       "fps": 24,
-      "name": "Picod1 Down Note0",
+      "name": "Pico Down Note0",
       "indices": []
     },
     {
       "offsets": [
         210,
-        -28
+        -27
       ],
       "loop": false,
       "anim": "singDOWNmiss",
       "fps": 24,
-      "name": "Picod1 Down Note MISS",
+      "name": "Pico Down Note MISS",
       "indices": []
     },
     {
       "offsets": [
         -19,
-        67
+        68
       ],
       "loop": false,
       "anim": "singUPmiss",
       "fps": 24,
-      "name": "picod1 Up note miss",
+      "name": "pico Up note miss",
       "indices": []
     }
   ],
@@ -104,9 +104,9 @@
   "image": "characters/Pico_FNF_assetssd1",
   "position": [
     0,
-    300
+    260
   ],
-  "healthicon": "picod1",
+  "healthicon": "pico",
   "flip_x": true,
   "healthbar_colors": [
     183,
